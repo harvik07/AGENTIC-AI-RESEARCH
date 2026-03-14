@@ -1,6 +1,6 @@
 from tavily import TavilyClient
 
-client = TavilyClient(api_key="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")
+client = TavilyClient(api_key="TAVILY_API_KEY")
 
 def search_web(query):
 
